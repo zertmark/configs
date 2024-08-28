@@ -1,4 +1,4 @@
 # configs
-This is my configs repo \
+This is my configs repo
 # Why ?
-For my convenience \ 
+For my convenience
